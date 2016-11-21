@@ -1,5 +1,4 @@
 public enum CoffeePod {
-	
 	CP001(ProductType.SMALL, Flavor.VANILLA, 1),
     CP003(ProductType.SMALL, Flavor.VANILLA, 3),
     CP011(ProductType.SMALL, Flavor.CARAMEL, 1),

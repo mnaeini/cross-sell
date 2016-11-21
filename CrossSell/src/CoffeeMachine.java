@@ -1,5 +1,4 @@
 public enum CoffeeMachine {
-	
 	CM001(ProductType.SMALL, Model.BASE, false),
     CM002(ProductType.SMALL, Model.PREMIUM, false),
     CM003(ProductType.SMALL, Model.DELUX, true),

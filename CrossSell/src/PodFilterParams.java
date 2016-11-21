@@ -3,6 +3,7 @@ public class PodFilterParams {
 	CoffeePod.Flavor flavor;
 	Integer size;
 
+	
 	public PodFilterParams(ProductType type, CoffeePod.Flavor flavor, Integer size) {
 		this.type = type;
 		this.flavor = flavor;

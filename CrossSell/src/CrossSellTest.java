@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /***
  * A test class to show how we can retrieve the data for different landing pages and cross sell
  * based on the request param. Ideally there would be another layer that processes the request params and create 
