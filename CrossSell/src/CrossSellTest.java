@@ -3,6 +3,7 @@
  * based on the request param. Ideally there would be another layer that processes the request params and create 
  * the appropriate filtering params either for coffee machines or coffee pods. The idea is each requestParam 
  * is composed of filtering entity, aka pods or machines, product types, flavors, models, size, and water compatibility.
+ *
  * @author maryammoslemi
  *
  */

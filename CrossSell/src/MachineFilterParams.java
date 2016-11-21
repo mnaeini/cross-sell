@@ -8,5 +8,4 @@ public class MachineFilterParams {
 		this.model = model;
 		this.waterLineCompatibility = waterLineCompatibility;
 	}
-	
 }
